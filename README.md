@@ -1,5 +1,7 @@
 # 🛡️ Filigraneur — Filigrane Sécurisé & 100% Local
 
+[![Demo En Ligne](https://img.shields.io/badge/D%C3%A9mo_En_Ligne-filigraneur.ai.studio-2563eb.svg?logo=google-chrome&logoColor=white)](https://filigraneur.ai.studio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-ach--eddine%2Ffiligrane-black.svg?logo=github)](https://github.com/ach-eddine/filigrane)
 [![Licence: AGPL v3](https://img.shields.io/badge/Licence-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![React](https://img.shields.io/badge/React-19-61dafb.svg?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -11,20 +13,32 @@
 > 
 > **Zéro envoi sur serveur, zéro fuite possible, traitement 100% hermétique et local.**
 
+🔗 **Application déployée et accessible en ligne :** [https://filigraneur.ai.studio/](https://filigraneur.ai.studio/)
+
 ---
 
 ## 📑 Sommaire
 
+- [Démo en ligne](#-démo-en-ligne)
 - [Pourquoi Filigraneur ?](#-pourquoi-filigraneur-)
 - [Fonctionnalités Clés](#-fonctionnalités-clés)
 - [Architecture Technique & Confidentialité](#-architecture-technique--confidentialité)
 - [Design System : Technical Schematic Matrix](#-design-system--technical-schematic-matrix)
-- [Captures & Démonstration](#-captures--démonstration)
 - [Installation & Démarrage](#-installation--démarrage)
 - [Scripts Disponibles](#-scripts-disponibles)
 - [Guide des Bonnes Pratiques de Filigranage](#-guide-des-bonnes-pratiques-de-filigranage)
 - [Technologies Utilisées](#-technologies-utilisées)
 - [Licence & Crédits](#-licence--crédits)
+
+---
+
+## 🌐 Démo en Ligne
+
+L'application est utilisable immédiatement sans aucune installation :
+
+👉 **[https://filigraneur.ai.studio/](https://filigraneur.ai.studio/)**
+
+*Aucune inscription requise, traitement instantané dans votre navigateur.*
 
 ---
 
@@ -134,8 +148,8 @@ L'interface utilisateur adopte les principes du design system **Technical Schema
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/CyberClarence/filigraneur.git
-cd filigraneur
+git clone https://github.com/ach-eddine/filigrane.git
+cd filigrane
 ```
 
 2. Installer les dépendances :
@@ -191,6 +205,8 @@ Pour maximiser la protection juridique et technique de vos documents :
 
 ## 📄 Licence & Crédits
 
+- **Dépôt GitHub** : [https://github.com/ach-eddine/filigrane](https://github.com/ach-eddine/filigrane)
+- **Application En Ligne** : [https://filigraneur.ai.studio/](https://filigraneur.ai.studio/)
 - **Licence** : Projet publié sous licence **GNU Affero General Public License v3.0 (AGPL-3.0)**.
-- **Origine & Auteur** : Créé par **achraf**, inspiré du travail open-source de **CyberClarence** ([cybercla.dev](https://cybercla.dev)).
+- **Auteur** : **achraf**, inspiré du travail open-source de **CyberClarence** ([cybercla.dev](https://cybercla.dev)).
 - **Confidentialité** : Aucun cookie, aucun script de pistage tiers, aucun appel réseau vers des API distantes.

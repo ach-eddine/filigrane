@@ -95,7 +95,7 @@ export const SecurityGuideModal: React.FC<SecurityGuideModalProps> = ({
 
           <div className="pt-4 border-t border-[#e2e0d8] flex flex-col sm:flex-row items-center justify-between gap-3 font-mono">
             <a
-              href="https://github.com/CyberClarence/filigraneur"
+              href="https://github.com/ach-eddine/filigrane"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs text-[#0d0d0d] hover:underline flex items-center gap-1.5"

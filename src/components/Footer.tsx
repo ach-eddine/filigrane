@@ -23,7 +23,7 @@ export const Footer: React.FC = () => {
           </span>
           <span className="text-[#888882]">•</span>
           <a
-            href="https://github.com/CyberClarence/filigraneur"
+            href="https://github.com/ach-eddine/filigrane"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1 text-[#0d0d0d] hover:underline"

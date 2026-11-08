@@ -64,7 +64,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenSecurityModal }) => {
 
           {/* Primary Schematic Pill: GitHub Source */}
           <a
-            href="https://github.com/CyberClarence/filigraneur"
+            href="https://github.com/ach-eddine/filigrane"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 pl-2 pr-3.5 py-1.5 rounded-full text-xs font-mono font-semibold text-white bg-[#0d0d0d] hover:bg-[#1c1b1b] transition-all shadow-[0_1px_2px_rgba(0,0,0,0.08)] group"
