@@ -1,0 +1,8 @@
+{
+  "name": "Filigraneur - Filigrane Sécurisé & Local",
+  "description": "Ajoutez un filigrane de protection à vos pièces d'identité et documents sensibles directement dans votre navigateur. 100% local, zéro transfert de données, alternative sécurisée et open source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
